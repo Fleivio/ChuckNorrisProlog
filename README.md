@@ -5,3 +5,5 @@ Para fins de aprendizado, buscamos de uma API de piadas do Chuck Norris um docum
 então iniciamos um servidor no localhost que gera uma página contendo a piada, uma imagem de fundo e um png falso (tosco de proposito).
 
 O resultado é o que se segue:
+
+![chuck](chuck.png)
