@@ -7,3 +7,6 @@ então iniciamos um servidor no localhost que gera uma página contendo a piada,
 O resultado é o que se segue:
 
 ![chuck](chuck.png)
+
+# Agradecimentos
+Agradeço a Gregori Pinhalgrandense Rubim pelo apoio e por termos sobrevivido ao pior tema que tinha para o trabalho.
